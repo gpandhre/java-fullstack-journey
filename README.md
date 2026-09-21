@@ -165,3 +165,76 @@ java/
     ├── Student.java
     └── Calculation.java
 ```
+
+---
+
+## Day 2 — Conditions, Loops & Arrays ✅
+
+### Topics Completed
+
+#### Conditions & Logical Operators
+
+- [x] `if`
+- [x] `else`
+- [x] `else if`
+- [x] Logical AND `&&`
+- [x] Logical OR `||`
+- [x] Logical NOT `!`
+
+#### Loops
+
+- [x] `for` loop
+- [x] Increasing loops
+- [x] Decreasing loops
+- [x] `while` loop
+- [x] `do-while` loop
+- [x] `i++`
+- [x] `i--`
+
+#### Arrays
+
+- [x] Creating arrays
+- [x] Taking array input using `Scanner`
+- [x] Traversing arrays
+- [x] Finding the largest number
+- [x] Finding the smallest number
+
+#### Problem-Solving Patterns
+
+- [x] Sum using `+=`
+- [x] Counting using `count++`
+- [x] Even number checking using `%`
+- [x] Positive / negative / zero classification
+- [x] Maximum and minimum tracking
+- [x] Multiplication tables
+
+### Day 2 Programs
+
+```text
+java/
+└── day-02/
+    ├── Eligibility.java
+    ├── DrivingEligibility.java
+    ├── LoginAccess.java
+    ├── AccountStatus.java
+    ├── NumberPrinter.java
+    ├── ReverseNumberPrinter.java
+    ├── SumNumbers.java
+    ├── EvenNumbers.java
+    ├── CountEvenNumbers.java
+    ├── MultiplicationTable.java
+    ├── SumEvenNumbers.java
+    ├── LargestNumber.java
+    ├── SmallestNumber.java
+    ├── CountPositiveNumbers.java
+    ├── NumberClassification.java
+    ├── WhileNumberPrinter.java
+    ├── WhileReverseNumberPrinter.java
+    ├── WhileSum.java
+    ├── WhileEvenNumbers.java
+    ├── WhileCountEven.java
+    ├── DoWhileNumberPrinter.java
+    ├── DoWhileSum.java
+    ├── DoWhileEvenNumbers.java
+    └── DoWhileCountEven.java
+```
